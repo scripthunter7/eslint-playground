@@ -14,5 +14,7 @@
     "url": "https://github.com/scripthunter7/eslint-playground/issues"
   },
   "homepage": "https://github.com/scripthunter7/eslint-playground#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  }
 }
